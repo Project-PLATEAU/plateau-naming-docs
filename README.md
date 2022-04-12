@@ -51,10 +51,10 @@ Project PLATEAUが[G空間情報センター](https://www.geospatial.jp/ckan/dat
 | データ形式 | 規則 |
 |:-----------|:-----------|
 | CityGML形式 | [「3D都市モデル標準作業手順書（第2.0版）」](https://www.mlit.go.jp/plateau/libraries/)  5.4   <br> ※PLATEAUウェブサイトへのリンク |
-| 3Dtiles形式、Shapefile形式、GeoJSON形式、MVT形式 | [3dtiles等ファイル命名規則](/plateau-naming-docs/plateau-3dtiles_etc-naming.md) |
+| 3Dtiles形式、Shapefile形式、GeoJSON形式、MVT形式 | [plateau-3dTiles_etc-naming](/plateau-naming-docs/plateau-3dtiles_etc-naming.md) |
 | FBX形式 | [plateau-fbx-naming](/plateau-naming-docs/plateau-fbx-naming.md) |
 | OBJ形式 | [plateau-obj-naming](/plateau-naming-docs/plateau-obj-naming.md) |
-| GeoTIFF形式 | [orthoファイル命名規則](/plateau-naming-docs/plateau-ortho-naming.md) |
+| GeoTIFF形式 | [plateau-ortho-naming](/plateau-naming-docs/plateau-ortho-naming.md) |
 
 ### 6. G空間情報センターAPIを利用したダウンロードリストの取得
 G空間情報センターでは、APIを利用してダウンロードリストを作成することができる。  

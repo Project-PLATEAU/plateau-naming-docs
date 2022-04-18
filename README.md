@@ -25,7 +25,7 @@ Project PLATEAUが[G空間情報センター](https://www.geospatial.jp/ckan/dat
   
 #### 各項目の解説は以下のとおり。
 
-* 市町村コード5桁: 総務省が定める[「全国地方公共団体コード」](https://www.soumu.go.jp/denshijiti/code.html")の上5桁を数字で表す。
+* 市町村コード5桁: 総務省が定める[「全国地方公共団体コード」](https://www.soumu.go.jp/denshijiti/code.html)の上5桁を数字で表す。
 
 * 市区町村名英名: デジタル庁が定める[「行政基本情報データ連携モデル_住所」](https://cio.go.jp/guides)に従う。すなわち、市区町村名称を国土地理院が定める「地名等の英語表記規程」（平成 28 年国地達第 10 号）に準拠しつつ、市区町村の種別はcityやwardではなく-shiや-kuで表す。
 
